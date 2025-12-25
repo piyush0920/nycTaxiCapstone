@@ -1,4 +1,4 @@
-# 🚕 NYC Yellow Taxi Operations – Exploratory Data Analysis (Capstone Project)
+# 🚕 NYC Yellow Taxi Operations – Exploratory Data Analysis (Assignment)
 
 ## 📌 Project Overview
 
