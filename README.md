@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is an **end-to-end Exploratory Data Analysis (EDA)** of NYC Yellow Taxi trip data, created as a **capstone project** to demonstrate practical data analysis, data cleaning, and insight generation skills using Python.
+This project is an **end-to-end Exploratory Data Analysis (EDA)** of NYC Yellow Taxi trip data, created as a **Assignment** to demonstrate practical data analysis, data cleaning, and insight generation skills using Python.
 
 The objective is to understand **travel demand patterns, revenue trends, operational inefficiencies, and geographic hotspots**, and to provide **data-driven recommendations** for optimizing taxi operations in New York City.
 
